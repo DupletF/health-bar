@@ -1,0 +1,8 @@
+C:\Users\ПК\Desktop\консольные приложения\health bar\health bar\bin\Debug\health bar.exe.config
+C:\Users\ПК\Desktop\консольные приложения\health bar\health bar\bin\Debug\health bar.exe
+C:\Users\ПК\Desktop\консольные приложения\health bar\health bar\bin\Debug\health bar.pdb
+C:\Users\ПК\Desktop\консольные приложения\health bar\health bar\obj\Debug\health bar.csproj.AssemblyReference.cache
+C:\Users\ПК\Desktop\консольные приложения\health bar\health bar\obj\Debug\health bar.csproj.SuggestedBindingRedirects.cache
+C:\Users\ПК\Desktop\консольные приложения\health bar\health bar\obj\Debug\health bar.csproj.CoreCompileInputs.cache
+C:\Users\ПК\Desktop\консольные приложения\health bar\health bar\obj\Debug\health bar.exe
+C:\Users\ПК\Desktop\консольные приложения\health bar\health bar\obj\Debug\health bar.pdb
